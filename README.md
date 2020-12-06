@@ -1,0 +1,2 @@
+## Task Management API
+A simple GRAPHQL nodeJS Express application which manages tasks for a user. It goes through Mutation, Query and Subscription in graphql along with protecting endpoints using JWT token using the middleware.  
